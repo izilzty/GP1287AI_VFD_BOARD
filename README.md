@@ -1,6 +1,10 @@
 # GP1287AI_VFD_BOARD
 此PCB需搭配型号为GP1287AI的VFD显示屏使用，其他类似型号的屏幕未测试，不保证完全可用，如果要使用请自行检查引脚定义是否相同。
 
+![正面](https://github.com/izilzty/GP1287AI_VFD_BOARD/raw/main/%E8%B5%84%E6%BA%90/README%E5%9B%BE%E7%89%87/front.JPG "正面")
+
+![背面](https://github.com/izilzty/GP1287AI_VFD_BOARD/raw/main/%E8%B5%84%E6%BA%90/README%E5%9B%BE%E7%89%87/back.JPG "背面")
+
 ## 硬件说明
 
 ### 1. TL431/432型号选择
