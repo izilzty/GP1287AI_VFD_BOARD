@@ -1,0 +1,4 @@
+# 忽略PCB历史和日志文件
+/History
+/Project Logs for *
+/__Previews

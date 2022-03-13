@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [GP1287AI_VFD_BOARD.PrjPcb]
+   Generated File[PCB1-RoundHoles-Plated.TXT]
+   Generated File[PCB1-RoundHoles-NonPlated.TXT]
+   Generated File[PCB1-SlotHoles-NonPlated.TXT]
+   Generated File[PCB1.LDP]
+   Generated File[PCB1.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 23:09:47 On 2022/3/13
