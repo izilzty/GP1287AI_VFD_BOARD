@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\Projects\AltiumDesigner\PCB\GP1287AI_VFD_BOARD\PCB1.PcbDoc
-Date     : 2022/3/13
-Time     : 23:08:55
+Date     : 2022/3/18
+Time     : 1:42:20
 
 Processing Rule : Clearance Constraint (Gap=20mil) (OnLayer('Keep-Out Layer')),(InNetClass('All Nets'))
 Rule Violations :0
