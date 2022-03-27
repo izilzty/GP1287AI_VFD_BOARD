@@ -166,7 +166,7 @@ Value=GP1287AI VFD BOARD
 
 [Parameter2]
 Name=Revision
-Value=4.10
+Value=5.00
 
 [Configuration1]
 Name=Sources
