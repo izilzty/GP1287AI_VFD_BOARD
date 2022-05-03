@@ -1,6 +1,8 @@
 # GP1287AI_VFD_BOARD
 此PCB需搭配型号为GP1287AI的VFD显示屏使用，其他类似型号的屏幕未测试，不保证完全可用，如果要使用请自行检查引脚定义是否相同。
 
+另有增加了此型号VFD屏支持的U8g2库，如有需要请前往 [https://github.com/izilzty/u8g2](https://github.com/izilzty/u8g2) 下载。
+
 ![正面](https://github.com/izilzty/GP1287AI_VFD_BOARD/raw/main/%E8%B5%84%E6%BA%90/README%E5%9B%BE%E7%89%87/front.JPG "正面")
 
 ![背面](https://github.com/izilzty/GP1287AI_VFD_BOARD/raw/main/%E8%B5%84%E6%BA%90/README%E5%9B%BE%E7%89%87/back.JPG "背面")
